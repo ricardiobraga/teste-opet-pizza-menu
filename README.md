@@ -15,7 +15,7 @@ A aplicação está hospedada na [Vercel](https://vercel.com/) e pode ser acessa
 
 ## Rodando o Projeto Localmente
 
-Primeiro instale as dependencias:
+Primeiro instale as dependências:
 
 ```bash
 npm init
